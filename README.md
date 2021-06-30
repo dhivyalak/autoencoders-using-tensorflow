@@ -1,2 +1,2 @@
 # autoencoders-using-tensorflow
-code pattern to build an autoencoder using Tensordlow
+code pattern to build an autoencoder using TensorFlow
